@@ -17,4 +17,4 @@
         3. MsgSignature：签名串（必传）
         4. TimeStamp：时间戳(必传)
         5. Nonce：随机串(必传)
-    加密方式：AES-CBCaa
+    加密方式：AES-CBC
